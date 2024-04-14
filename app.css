@@ -5,8 +5,10 @@ html {
 body {
     font-family: 'Josefin Sans', sans-serif !important;
     padding: 0 !important;
-    -ms-overflow-style: none !important;
     scrollbar-width: none !important;
+    background-image: url("https://wallpaperswide.com/download/bridal_wreath_black_and_white-wallpaper-1920x1080.jpg");
+    background-size: contain;
+    -ms-overflow-style: none !important;
 }
 
 body::-webkit-scrollbar {
