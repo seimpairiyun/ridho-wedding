@@ -6,8 +6,8 @@ body {
     font-family: 'Josefin Sans', sans-serif !important;
     padding: 0 !important;
     scrollbar-width: none !important;
-    /* background-image: url("https://wallpaperswide.com/download/bridal_wreath_black_and_white-wallpaper-1920x1080.jpg");
-    background-size: contain; */
+    background-image: url("./assets/wallpaper-480x800.jpg");
+    background-size: cover;
     -ms-overflow-style: none !important;
 }
 
