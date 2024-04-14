@@ -117,6 +117,7 @@ body::-webkit-scrollbar {
 }
 
 .animate-love {
+    /* color: grey; */
     animation: love 5s ease-in-out infinite;
 }
 
