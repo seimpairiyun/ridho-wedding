@@ -30,10 +30,10 @@ body::-webkit-scrollbar {
 }
 
 .c-green {
-    color: #98D8AA;
+    color: #00a39d !important;
 }
 .c-red {
-    color: #FF6D60;
+    color: #d828b4 !important;
 }
 
 .img-crop {
