@@ -25,6 +25,17 @@ body::-webkit-scrollbar {
     color: #ffffff !important;
 }
 
+.c-yellow{
+    color: #FFEAAF !important;
+}
+
+.c-green {
+    color: #98D8AA;
+}
+.c-red {
+    color: #FF6D60;
+}
+
 .img-crop {
     width: 14rem;
     height: 14rem;
@@ -122,6 +133,7 @@ body::-webkit-scrollbar {
 }
 
 .dark-section {
+    /* background-color: #2A1A17 !important; */
     background-color: #111111 !important;
     margin-top: -0.5rem;
     margin-bottom: -0.5rem;
